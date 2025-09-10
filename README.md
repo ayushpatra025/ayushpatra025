@@ -76,6 +76,5 @@ I'm an aspiring Full Stack Developer from India, skilled in creating scalable an
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushpatra025&show_icons=true&theme=dark" alt="Ayush's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatra025&layout=compact&theme=dark" alt="Top Languages" />
 </p>
