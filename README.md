@@ -74,16 +74,6 @@ I'm an aspiring Full Stack Developer from India, skilled in creating scalable an
 
 ---
 
-### 📊 Competitive Programming Stats
-<p align="center">
-  <a href="https://leetcode.com/u/AyushPatra/">
-    <img src="https://leetcard.jacoblin.dev/AyushPatra?theme=dark&font=Syne_Mono" alt="Ayush's LeetCode Stats" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ayushpatra498">
-    <img src="https://github-readme-hackerrank.vercel.app/api?username=ayushpatra498&theme=dark" alt="Ayush's HackerRank Stats" />
-  </a>
-</p>
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushpatra025&show_icons=true&theme=dark" alt="Ayush's GitHub stats" />
